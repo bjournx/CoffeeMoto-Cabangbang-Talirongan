@@ -1,4 +1,4 @@
-# CoffeeMoto-Cabangbang-Talirongan
+Project Description
 *Welcome to CoffeeMoto, where every cup tells a story and every sip ignites a passion for exceptional coffee. Nestled in the heart of Puerto Princesa City, we've proudly served as a cozy haven for coffee enthusiasts since 2019.
 
 At CoffeeMoto, we believe that coffee is more than just a beverage; it's an experience. From the moment you step through our doors, you're enveloped in the rich aromas of freshly brewed beans and the warmth of genuine hospitality.
